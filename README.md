@@ -1,1 +1,2 @@
-project title : LOCAL EVENT FINDER 
+Project Title : LOCAL EVENT FINDER 
+Project vision : 
