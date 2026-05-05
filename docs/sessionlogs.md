@@ -24,10 +24,10 @@ Alisha
 05-05-2026
 researching about personas 
 
-venkat 
-05-05-2026
-creating a folder regarding personas 
 
+05-05-2026*(Tuesday)
+Mothadi Venkata Sai Raghu
+Creating a folder regarding personas 
 
 
 
