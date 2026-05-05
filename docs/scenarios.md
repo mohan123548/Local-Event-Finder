@@ -4,4 +4,4 @@ Raj owns a cozy café in the city and hosts open mic nights every weekend. He wa
 Context: Raj, café owner, creating and promoting an event.
 Activity: Using the event creation and promotion tools.
 Problem/Gap: Analytics dashboard feels too complex.
-Outcome: Successfully posts and promotes the event; gains visibility among local users.
+Outcome: Successfully posts and promotes the event; gains visibility among local users
