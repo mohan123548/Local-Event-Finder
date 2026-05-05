@@ -109,3 +109,12 @@ Pick Rahul — he’s relatable and easy to explain:
 Short Version to Say in Class:
 
 Rahul is a 22-year-old student who recently moved to a new city and is looking to meet new people and attend tech events. He is comfortable using apps but prefers simple and fast interfaces. He often struggles with finding relevant events quickly on other platforms. Our system helps him by showing personalized, nearby events based on his interests. However, too many filters or complex options might confuse him, so we focus on keeping the interface clean and user-friendly.
+
+Events: 
+      Hackothon 
+      job fare
+      partys
+      community gathering .
+      Local advertising events
+      Networking 
+      coding computations.
