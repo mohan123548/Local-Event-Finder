@@ -5,24 +5,29 @@ thursday 30 april
 done with the branches 
 Thursday 30 April
 samba
+Friday : 01-05-2026
+git hub pull request 
+mohan git hub repository  updated
+mohan kumar 
+05-05-2026
+Update the project name and  working on personas 
 
-Friday : 01-05-2026 
+Deekshith 
+05-05-2026
+Project file pattern has been created and working on personas 
 
-I have creared a project vision.
+Samba 
+05-05-2026 
+gaining knowledge about persona 
 
-To design and develop an intelligent, user-centric platform that enables individuals to seamlessly discover, personalize, and engage with local events in real time. The system aims to bridge the gap between event organizers and communities by leveraging location-based services, data-driven recommendations, and intuitive interfaces to enhance event visibility and user participation.
+Alisha 
+05-05-2026
+researching about personas 
 
-The platform aspires to become a scalable and adaptive solution that not only simplifies event discovery but also fosters community engagement, supports local economies, and promotes cultural and social interaction through technology.
+venkat 
+05-05-2026
+creating a folder regarding personas 
 
-If your university expects a slightly more technical angle:
 
-To build a scalable, location-aware event discovery system that integrates real-time data aggregation, recommendation algorithms, and user preference modeling to deliver personalized event suggestions. The solution will focus on usability, performance optimization, and interoperability, ensuring efficient interaction between users, event organizers, and third-party services.
 
-Key elements your vision already covers (important for evaluation):
-Clear problem domain (difficulty in discovering local events)
-Defined target users (general public + organizers)
-Technology direction (location-based + recommendation systems)
-Impact (community engagement, economic support)
-Scalability (future-ready system)
- 
 
