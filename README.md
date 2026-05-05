@@ -6,12 +6,11 @@
 
 | Role | Name |
 |---|---|
-| Product Owner | Mohan |
-
-| Scrum Master |Ahmad Alisha |
-| Developer |Venkat |
-| Developer |Samba shiva rao 
-| Developer |Deeksith|
+| Product Owner | Nai Brahmana mohan kumar |
+| Scrum Master |Shaik Ahmad Alisha |
+| Developer |Mothadi Venkat sai raghu |
+| Developer |Bonkuri Venkata Sambasiva rao |
+| Developer |Deeksith shankar|
 
 
 ## Project Overview
