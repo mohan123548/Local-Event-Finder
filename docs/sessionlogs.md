@@ -16,6 +16,9 @@ Deekshith
 05-05-2026
 Project file pattern has been created and working on personas 
 
+Deekshith Shankar
+
+Tuesday : 05/05/2026
 Samba 
 05-05-2026 
 gaining knowledge about persona 
@@ -31,3 +34,5 @@ Creating a folder regarding personas
 
 
 
+1.Created a files structure of the project vision and working .
+2.Created the persona and working flow of the project based on the user .
