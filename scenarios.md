@@ -7,4 +7,4 @@ On Friday evening, Rahul opens the Local Event Finder app on his phone. He enabl
 Problem / Gap:
 Before using this app, Rahul had difficulty finding events because information was scattered across multiple platforms like social media and websites. He often missed good events or found incomplete details (like unclear timings or location).
 Resolution:
-The Local Event Finder app solves this problem by providing a centralized platform where Rahul can easily discover nearby events with complete and accurate information. The filtering system and location-based suggestions help him quickly find relevant events, saving time and improving his overall experience.
+The Local Event Finder app solves this problem by providing a centralized platform where Rahul can easily discover nearby events with complete and accurate information. The filtering system and location-based suggestions help him quickly find relevant events, saving time and improving his overall experience
