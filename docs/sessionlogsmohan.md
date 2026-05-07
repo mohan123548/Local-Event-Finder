@@ -44,8 +44,21 @@ Personas were the most useful concept for our project because they helped us ima
 ## ** ANSWER**
 Before this workshop, we believed users mainly cared about finding the most popular events. After discussing personas and scenarios, we understood that many users actually value convenience, personalized recommendations, and easy access to event details more than popularity itself.
 
-## project swapping  discussion
-   .Have disucussed with the project of the Group c 
-   .They have such a great innovative idea regarding enivironment "GO ECHO"
-   .And Also Discussed with the project of the Group  D 
-   .They have an new idea that " AI Based Fashion " their projects also have a decent idea soo every one can have Fashion Sense 
+# # # **🔄 PROJECT SWAPPING DISCUSSION**
+
+---
+
+# # **🤝 DISCUSSION WITH GROUP C**
+## **🌱 GO ECHO**
+- Discussed the project ideas with Group C.
+- Their project, **"GO ECHO"**, focused on environmental awareness and sustainability.
+- The idea was highly innovative and aimed at creating a positive impact on the environment.
+
+---
+
+# # **🤖 DISCUSSION WITH GROUP D**
+## **👗 AI BASED FASHION**
+- Discussed the project ideas with Group D.
+- Their project, **"AI Based Fashion"**, introduced a smart fashion recommendation concept.
+- The project focused on helping people improve their fashion sense using AI technology.
+- The idea was creative, modern, and user-friendly.
