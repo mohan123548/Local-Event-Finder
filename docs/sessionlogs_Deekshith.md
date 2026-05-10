@@ -1,26 +1,82 @@
 <html>
 <body>
-<h1># # PROJECT PROGRESS REPORT**</h1>
-</body>
-</html>
 
-Thursday : 30 April
- worked with the github and working process on git manage the files and work division on the project and getting the clarity on the project to work with .
+<hr style="width:70%; height:3px; background-color:purple; border:none;">
 
+<h1># # PROJECT PROGRESS REPORT##</h1>
 
-Friday : 01-05-2026 
+<hr style="width:70%; height:3px; background-color:purple; border:none;">
 
-Deekshith Shankar
+<h2>**Deekshith Shankar**</h2>
 
-Tuesday : 05/05/2026
+<hr style="width:50%; height:3px; background-color:purple; border:none;">
+
+<h3>#📅Thursday : 30/04/2026</h3>
+
+<h4>**Deekshith Shankar**</h4>
+
+ 1.Worked with the github creation .
+ 2. Managing working process on git manage the files .
+ 3. Group creation and explanation of the project .
+ 4.Created working division on the project and getting the      clarity on the project selection  to work with .
+ 5.Updated the git and request sent to all other group members and providing them with git access.
+
+<hr style="width:50%; height:3px; background-color:purple; border:none;">
+
+<h3>#📅Tuesday : 05/05/2026</h3>
+
+<h4>**Deekshith Shankar**</h4>
+
 
 1.Created a files structure of the project vision and working .
 2.Created the persona and working flow of the project based on the user .
 3.Creating a session on the specific character .
-4.To check the persona details go to (persona.md) file 
+4.To check the persona details go to file .(persona.md)
+5.Worked on scenarios. 
 
-Thrusday : 07/05/2026
+<hr style="width:50%; height:3px; background-color:purple; border:none;">
+
+<h3>#📅Thrusday : 07/05/2026</h3>
+
+<h4>**Deekshith Shankar**</h4>
+
 
 1.Listing of the features .
 2.Implementation and research on the project design and getting the feed back from team .
 3.Working and research online on application related sites and taking the basic outline .
+
+<hr style="width:50%; height:3px; background-color:purple; border:none;">
+
+<hr style="width:70%; height:3px; background-color:purple; border:none;">
+
+ <h3>#📅Sunday : 10/05/2026</h3>
+
+<h2># # 📝 REFLECTION</h2>
+
+<hr style="width:70%; height:3px; background-color:purple; border:none;">
+
+<h3># ❓ WHICH CONCEPT (PERSONAS / SCENARIOS / USER STORIES / FEATURES) WAS MOST USEFUL FOR YOUR PROJECT, AND WHY?</h3>
+
+<hr style="width:70%; height:3px; background-color:purple; border:none;">
+
+<h2>**Answer</h2>
+
+<hr style="width:50%; height:3px; background-color:purple; border:none;">
+
+The idea of persona was likes by every one when presented and was agreed by every one how the flow of the indivisual in a website was explaied and made a breif on each user ex(Admin , Event organizer, Event searcher )
+
+<hr style="width:50%; height:3px; background-color:purple; border:none;">
+
+<h3># ❓ WHAT IS ONE ASSUMPTION ABOUT YOUR USERS THAT THIS WORKSHOP FORCED YOU TO CHALLENGE?</h3>
+
+<hr style="width:50%; height:3px; background-color:purple; border:none;">
+
+<h2>**Answer</h2>
+
+<hr style="width:50%; height:3px; background-color:purple; border:none;">
+
+Through the workshop discussions and user scenario analysis, we gained a deeper understanding of what users truly expect from a local event discovery platform. Rather than focusing only on highly popular events, users showed a stronger preference for features such as personalized recommendations, quick access to accurate event information, and overall convenience in planning their experiences. In addition, we identified the significance of integrating government approval and permission verification into the system. Although often overlooked, this feature plays a crucial role in enhancing trust, ensuring the safety of attendees and organizers, and providing real-time updates regarding event authorization or changes. Incorporating these elements allows the platform to deliver a more secure, reliable, and user-centered event management experience.
+
+
+</body>
+</html>
